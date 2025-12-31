@@ -1,2 +1,2 @@
-# ten_twelve_2ndpr
+# ten_twelve_2ndpj
 the second project of Ten Twelve project series.
